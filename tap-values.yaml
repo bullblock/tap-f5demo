@@ -41,6 +41,12 @@ tap_gui:
   metadataStoreAutoconfiguration: true
   app_config:
     auth:
+      environment: development
+      providers:
+        github:
+          development:
+            clientId: "Iv1.13d5d8496866d218"
+            clientSecret: "64e1e070a5a7eca4456164746539b07121ddd24a"
       allowGuestAccess: true
     catalog:
       locations:

@@ -1,1 +1,1 @@
-Sample org structure for application catalog
+An Application Platform deployment and workload workshop demo for F5

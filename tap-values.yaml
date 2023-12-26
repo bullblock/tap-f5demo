@@ -45,8 +45,8 @@ tap_gui:
       providers:
         github:
           development:
-            clientId: "Iv1.13d5d8496866d218"
-            clientSecret: "64e1e070a5a7eca4456164746539b07121ddd24a"
+            clientId: ""
+            clientSecret: ""
       allowGuestAccess: true
     catalog:
       locations:

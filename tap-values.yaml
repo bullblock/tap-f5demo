@@ -35,7 +35,6 @@ buildservice:
   kp_default_repository_secret:
     name: "registry-credentials"
     namespace: "tap-install"
-  exclude_dependencies: true
 
 tap_gui:
   metadataStoreAutoconfiguration: true
